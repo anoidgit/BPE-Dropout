@@ -65,6 +65,11 @@ The following repositories have implemented BPE-dropout
 
 In order to achive high speed of segmentation you can either use faster implementation like [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe), or use Python multiprocessing.
 
+
+### Some hints to reproduce our results:
+
+* For small datasets we used usual dropout coefficients 0.2. 
+
 ### Reference
 
 ```
