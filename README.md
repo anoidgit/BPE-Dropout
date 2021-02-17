@@ -68,7 +68,7 @@ In order to achive high speed of segmentation you can either use faster implemen
 
 ### Some hints to reproduce our results
 
-* For small datasets, we used the usual dropout coefficients 0.2
+* For small datasets, we used the usual dropout coefficients 0.1
 
 ### Reference
 
